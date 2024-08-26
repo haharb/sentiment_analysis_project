@@ -10,4 +10,4 @@ The dataset is provided by NLTK and consists of movie reviews categorized into p
 To install the required libraries, run:
 
 ```bash
-pip install -r requirements.txt
+pip install -r toinstall.txt
